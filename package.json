@@ -1,0 +1,24 @@
+{
+  "name": "shutupyouloveit",
+  "version": "0.9.9",
+  "description": "Shut up you love it dot com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.3.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wizem/shutupyouloveit"
+  },
+  "keywords": [
+    "shut up",
+    "you love it"
+  ],
+  "license": "MIT"
+}

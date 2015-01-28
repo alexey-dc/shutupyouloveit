@@ -1,0 +1,7 @@
+{
+  "name": "shutupyouloveit",
+  "description": "Shut up you love it dot com",
+  "repository": "https://github.com/wizem/shutupyouloveit",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["shut up", "you love it"]
+}
